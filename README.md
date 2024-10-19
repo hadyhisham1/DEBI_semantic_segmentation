@@ -5,7 +5,9 @@ This repository contains the code and resources for a semantic segmentation proj
 
 ## Files and Directories
 - Models: This directory stores the training notebooks for all models.
+- Reports: This directory contains report for unet model.
 - preprocessing.ipynb: Jupyter Notebook containing the preprocessing steps for the dataset.
+
 
 ## Dataset 
 
